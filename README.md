@@ -77,3 +77,4 @@ The key there is "Error: Cannot find module". That just means you are in the wro
 
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/js-from-dom-to-node'>From DOM To Node and the IDE</a> on Learn.co and start learning to code for free.</p>
+console.log("Hello, World!")
